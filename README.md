@@ -1,6 +1,7 @@
 
-# Для просмотра лабораторных работ по "Разработке безопасных веб-приложений", пожалуйста, перейдите в репозиторий LR_1_2_3_secure-web-development-21
-https://github.com/ElenaKhudiakova/LR_1_2_3_secure-web-development-21
+# Для просмотра лабораторных работ по "Разработке безопасных веб-приложений", пожалуйста, перейдите в репозиторий
+*LR_1_2_3_secure-web-development-21
+https://github.com/ElenaKhudiakova/LR_1_2_3_secure-web-development-21 *
 
 *Выполняли работы студенты группы РИ-571227*
 
